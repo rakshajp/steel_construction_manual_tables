@@ -1,0 +1,2 @@
+# steel_construction_manual_tables
+Parsed steel_construction_manual_tables into code-readable csv format
