@@ -1,6 +1,21 @@
 # steel_construction_manual_tables
 
-Parsed steel_construction_manual_tables into code-readable csv format
+# Run it locally
+
+This script parses steel_construction_manual_tables into code-readable csv format
+(add link to book here + edition details)
+
+## Prerequisites
+
+- Python 3.x installed on your machine.
+- Necessary Python packages installed. Install the required packages using the following command:
+
+  ```bash
+  pip install pandas  
+
+- Upload the pdf file and db file under input_files
+- Edit code to handle names of files
+- Run code
 
 # `2023.10.03` Integrity Check
 
